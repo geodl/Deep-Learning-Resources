@@ -19,7 +19,27 @@
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ### Tutorials
-* [Google Codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
+
+#### General ML
 
 * [Amazon Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/amazon-machine-learning-key-concepts.html#ml-models)
 
+* [Cross Validation Keras](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+
+* [Data Augmentation Intuition](https://recast.ai/blog/toward-augmented-dataset/)
+
+#### Tensorflow
+
+* [Google Codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
+
+* [Code Reuse](http://engineering.taboola.com/more-than-one-graph-code-reuse-in-tensorflow/)
+
+* [Code Structure](https://danijar.com/structuring-your-tensorflow-models/)
+
+* [Training Batches](https://stackoverflow.com/questions/41673889/tensorflow-does-tf-train-batch-automatically-load-the-next-batch-when-the-batch)
+
+* [Train Summary Iterator](https://programtalk.com/python-examples/tensorflow.train.summary_iterator/)
+
+### Tools
+
+* [Image augmentation library](https://github.com/aleju/imgaug)
