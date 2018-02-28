@@ -28,6 +28,8 @@
 
 * [Data Augmentation Intuition](https://recast.ai/blog/toward-augmented-dataset/)
 
+* [Stanford Tensorflow for Deep Learning](http://web.stanford.edu/class/cs20si/syllabus.html)
+
 #### Tensorflow
 
 * [Google Codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
@@ -43,3 +45,9 @@
 ### Tools
 
 * [Image augmentation library](https://github.com/aleju/imgaug)
+
+* [Image augmentaiton techniques](https://github.com/Prasad9/ImageAugmentationTypes)
+
+* [Sklearn cross validation](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
+
+
