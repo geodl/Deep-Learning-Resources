@@ -42,6 +42,8 @@
 
 * [Train Summary Iterator](https://programtalk.com/python-examples/tensorflow.train.summary_iterator/)
 
+* [Image classifier](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+
 ### Tools
 
 * [Image augmentation library](https://github.com/aleju/imgaug)
