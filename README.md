@@ -30,6 +30,10 @@
 
 * [Stanford Tensorflow for Deep Learning](http://web.stanford.edu/class/cs20si/syllabus.html)
 
+* [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+
+* [Understanding Different Types of Neural Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
+
 #### Tensorflow
 
 * [Google Codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
@@ -43,6 +47,10 @@
 * [Train Summary Iterator](https://programtalk.com/python-examples/tensorflow.train.summary_iterator/)
 
 * [Image classifier](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+
+### Keras
+
+* [Convolutional Neural Networks in Python with Keras](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
 
 ### Tools
 
