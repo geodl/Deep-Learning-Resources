@@ -18,6 +18,11 @@
 
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
+### Books
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+* [Deep Learning Book](http://www.deeplearningbook.org/)
+
 ### Tutorials
 
 #### General ML
@@ -34,6 +39,8 @@
 
 * [Understanding Different Types of Neural Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
 
+* [Deep Learning](http://www.deeplearning.net)
+
 #### Tensorflow
 
 * [Google Codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
@@ -48,7 +55,7 @@
 
 * [Image classifier](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 
-### Keras
+#### Keras
 
 * [Convolutional Neural Networks in Python with Keras](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
 
