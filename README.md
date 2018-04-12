@@ -1,6 +1,8 @@
 # DeepLearningResources
 
 ### Youtube Links
+* [Deep Learning School Talks](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW)
+
 * [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
 
 * [Василий Айтипиплов](https://www.youtube.com/user/videoitpeople/videos)
