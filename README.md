@@ -69,4 +69,6 @@
 
 * [Sklearn cross validation](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
 
+* [Planet Math](http://planetmath.org/msc.html)
+
 
